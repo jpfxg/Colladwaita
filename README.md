@@ -1,4 +1,5 @@
 ## Colloid icon theme
+this fork is a modified version that JUST changes the APP icons
 
 ![1](preview.png?raw=true)
 
@@ -23,8 +24,4 @@ Usage:  `./install.sh`  **[OPTIONS...]**
 
 > For more information, run: `./install.sh -h`
 
-![bold](https://github.com/vinceliuice/WhiteSur-icon-theme/blob/master/bold-size.png?raw=true)
 
-![folders](folders.png?raw=true)
-
-![schemes](schemes.png?raw=true)
